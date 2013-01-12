@@ -1,0 +1,14 @@
+*.tmproj
+.project
+.metadata
+bin/**
+tmp/**
+tmp/**/*
+*.tmp
+*.bak
+*.swp
+.classpath
+.settings/
+.loadpath
+.externalToolBuilders/
+*.launch
