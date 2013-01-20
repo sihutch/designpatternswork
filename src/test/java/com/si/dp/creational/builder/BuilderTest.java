@@ -1,7 +1,12 @@
-package com.si.dp.builder;
+package com.si.dp.creational.builder;
 
 import static org.junit.Assert.*;
 import org.junit.Test;
+
+import com.si.dp.creational.builder.Director;
+import com.si.dp.creational.builder.Product;
+import com.si.dp.creational.builder.Product1Builder;
+import com.si.dp.creational.builder.Product2Builder;
 
 public class BuilderTest {
 	

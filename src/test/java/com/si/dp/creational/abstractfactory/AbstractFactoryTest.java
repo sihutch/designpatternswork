@@ -1,7 +1,15 @@
-package com.si.dp.abstractfactory;
+package com.si.dp.creational.abstractfactory;
 
 import static org.junit.Assert.*;
 import org.junit.Test;
+
+import com.si.dp.creational.abstractfactory.ProductA1;
+import com.si.dp.creational.abstractfactory.ProductA2;
+import com.si.dp.creational.abstractfactory.ProductB1;
+import com.si.dp.creational.abstractfactory.ProductB2;
+import com.si.dp.creational.abstractfactory.ProductFactory;
+import com.si.dp.creational.abstractfactory.ProductFactory1;
+import com.si.dp.creational.abstractfactory.ProductFactory2;
 
 public class AbstractFactoryTest {
 	

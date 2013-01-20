@@ -1,4 +1,4 @@
-package com.si.dp.abstractfactory;
+package com.si.dp.creational.abstractfactory;
 
 public class ProductFactory2 implements ProductFactory {
 

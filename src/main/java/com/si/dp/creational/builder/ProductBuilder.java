@@ -1,4 +1,4 @@
-package com.si.dp.builder;
+package com.si.dp.creational.builder;
 
 public interface ProductBuilder {
 	

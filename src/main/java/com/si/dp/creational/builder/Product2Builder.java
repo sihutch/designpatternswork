@@ -1,22 +1,22 @@
-package com.si.dp.builder;
+package com.si.dp.creational.builder;
 
-public class Product1Builder implements ProductBuilder {
+public class Product2Builder implements ProductBuilder {
 	
 	Product product;
 	
-	public Product1Builder() {
+	public Product2Builder() {
 		this.product = new Product();
 	}
 	
 	@Override
 	public void buildDescription() {
-		product.setDescription("product1Description");
+		product.setDescription("product2Description");
 		
 	}
 
 	@Override
 	public void buildName() {
-		product.setName("product1Name");
+		product.setName("product2Name");
 	}
 
 	@Override
